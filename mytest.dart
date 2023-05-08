@@ -2,7 +2,7 @@
 ///Asslamualaikum here is my code, I am using user input & if else statement to solve the problem^^
 import 'dart:io';
 main(){
-  String studnetName='Bashir';
+  String studnetName='Mohammad Bashirul Islam';
   String studentGrade = stdin.readLineSync()!;
   int testScore = int.parse(studentGrade);
   if(testScore>=90 && testScore<=100)
